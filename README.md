@@ -51,6 +51,15 @@
 >
 > 난 CUDA 11.3이였기에 cuDNN v8.2.1 (June 7th, 2021), for CUDA 11.x을 설치하였다. 그리고 난 윈도우기에 cuDNN Library for Windows (x86)을 설치하였다.
 
+## STEP 6
+
+> ### 다운로드한 CUDA 파일 실행, 설치
+> 
+> ### 다운로드한 cuDNN 파일 압축 풀기
+> CUDA 설치 폴더에 가서 cuDNN안에 있는 파일들을 옮겨준다.
+
+# 끝!
+
 
 
 
