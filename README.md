@@ -43,7 +43,7 @@
 
 > ### cuDNN 설치
 > 
->[사이트 링크](https://developer.nvidia.com/cuda-toolkit-archive)
+>[사이트 링크](https://developer.nvidia.com/rdp/cudnn-download)
 >
 >그렇다... 아이디를 만들어야한다... 공인인증서가 아니라 다행이다
 >
